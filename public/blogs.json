@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/Zzr8ykP/nathan-dumlao-Ewa-V3-Hjwm-Uo-unsplash.jpg",
+      "title": "Echoes of Destiny",
+      "author": "Samantha Williams",
+      "author_img": "https://i.ibb.co/WBDWjD0/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 10,
+      "hashtags": ["#FantasyAdventure", "#Adventure", "#Future"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/FgKHxRP/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "Midnight Whispers",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/WBDWjD0/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpgauthor_image_2.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 8,
+      "hashtags": ["Baking", "Reciepies", "Deserts"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/wJnV7cw/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Serenade of Stars",
+      "author": "Emily Roberts",
+      "author_img": "https://i.ibb.co/WBDWjD0/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 12,
+      "hashtags": ["#FantasyAdventure", "#Technology", "#Science"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/SNtDs00/javier-allegue-barros-C7-B-Ex-Xp-OIE-unsplash.jpg",
+      "title": "Shadows in the Mist",
+      "author": "Daniel Thompson",
+      "author_img": "https://i.ibb.co/WBDWjD0/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 15,
+      "hashtags": ["#FantasyAdventure", "#Technology", "#Science"]
+    }
+]
